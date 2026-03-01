@@ -17,9 +17,9 @@ Maximize Bingle® across the world.
 > ENTERPRISE-GRADE SOLUTIONS
 
 ### Platforms
-**BingleGPT** - Our foundational Scalable Big Data LLM Agentic AI Agents
-**BingleFlow** - Enterprise workflow orchestration and outcome delivery pipeline management
-**BingleHub** - BingleHub is where work happens.
+* **BingleGPT** - Our foundational Scalable Big Data LLM Agentic AI Agents
+* **BingleFlow** - Enterprise workflow orchestration and outcome delivery pipeline management
+* **BingleHub** - BingleHub is where work happens.
 
 ### Meet the Team
 
