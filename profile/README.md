@@ -24,12 +24,15 @@ Maximize Bingle® across the world.
 ### Meet the Team
 
 ![Chad Chadwick](./static/chad_chadwick.png)
+
 **Chad Chadwick** — CEO & Co-Founder. Previously at Dartmouth, Google, Lockheed Martin
 ---
 ![Brent Peterson](./static/brent_peterson.png)
+
 **Brent Peterson** — CTO & Co-Founder. Previously at MIT, Palantir, and Chad's apartment.
 ---
 ![Ranjit Balasubramanian](./static/ranjit.png)
+
 **Ranjit Balasubramanian** — Chief AI Officer, RAG, Prompt Engineer. Previously at IIT Bombay, OpenAI, DeepMind
 ---
 ### Contact
